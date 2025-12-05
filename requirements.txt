@@ -1,0 +1,7 @@
+# No Python/runtime packages required for this static frontend project.
+# If you need a simple static server for development, install one locally:
+# Optional: http-server (Node)
+#   npm install -g http-server
+# Optional: live-server (Node)
+#   npm install -g live-server
+# Otherwise: use Python's built-in server: `python3 -m http.server`
